@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "966234956003",
+    "project_id": "uts-pemmob-9f886",
+    "storage_bucket": "uts-pemmob-9f886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966234956003:android:bc477536e8e1171ee2a5d6",
+        "android_client_info": {
+          "package_name": "my.id.bigbabie.uts_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81-MO8h-otKkcw0Iwei5aAe1wPMlwmfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966234956003:android:ce2460819aad9486e2a5d6",
+        "android_client_info": {
+          "package_name": "my.id.bigbabie.uts_s5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81-MO8h-otKkcw0Iwei5aAe1wPMlwmfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966234956003:android:21d3661a96e91aaee2a5d6",
+        "android_client_info": {
+          "package_name": "my.id.testinguts.testinguts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81-MO8h-otKkcw0Iwei5aAe1wPMlwmfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
